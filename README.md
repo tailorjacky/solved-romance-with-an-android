@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-romance-with-an-android
+<br>
+Romance with an Android
+
+This is a link to Assignment # 3 (hand-in) submission function and instructions/directions.  All students should translate the eleven (11) deductive arguments contained in Exercise Set III, Chapter 6.4, pp. 356-357, “Romance with an Android.”  For each of the eleven (11) arguments, all students should (1)  translate the argument into SL, (2) construct either a direct or indirect truth table to demonstrate whether the argument is valid or invalid (clearly indicate “VALID” or “INVALID” next to the truth table), and (3) construct a truth tree to demonstrate whether the argument is valid or invalid.  Obviously, the answers obtained from the truth tables and the truth trees should be the same.  If not, then one made an error in either the truth table or truth tree.  For the truth trees, use typed text and lines or draw and photograph.
